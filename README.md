@@ -37,25 +37,30 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 - Berikut adalah function-function yang terdapat di Class 'Transaction':
   - Function basket untuk menambahkan item ke keranjang belanja. Sebelum input nama, jumlah dan harga item, user akan ditanya jumlah jenis item yang akan dibayar. Setelah semua item sudah diinput, maka akan keluar output dataframe nama, jumlah, harga/item dan total harga dari semua item.
   
-    ![image](https://user-images.githubusercontent.com/121001516/218328028-fb38b981-e361-4c2a-9a82-416aa3497db2.png)
-
+    ![image](https://user-images.githubusercontent.com/121001516/218343215-c992b456-65ac-42f6-9a92-7bdeac4149a6.png)
     
   - Function update_items untuk mengedit item yang ada di keranjang belanja. User dibeli 4 pilihan edit. Untuk mengedit item, user harus menginput nomor urut item sesuai dengan yang tertera pada tabel item di keranjang belanja
 
-    ![image](https://user-images.githubusercontent.com/121001516/218328081-071b6363-2e04-4cc3-8fc0-452a70a5242e.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218343254-ef3dc291-5fcc-4d43-9a4f-e61a05846937.png)
     
-    ![image](https://user-images.githubusercontent.com/121001516/218328139-558e5815-1b34-41c8-9b62-30ffd7a950ec.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218343338-a0d011d0-2e2d-49df-b263-9b19fa642bf0.png)
     
-    ![image](https://user-images.githubusercontent.com/121001516/218328185-8999b3b2-ff25-4bc7-ab7b-31a916fa9525.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218343368-fd8a63ee-feb2-4005-b002-9ae34080b092.png)
 
   - Function delete_items untuk menghapus item yang ada di keranjang belanja. User dibeli 2 pilihan delete (delete semua item/reset dan delete beberapa item). Untuk menghapus item, user harus menginput nomor urut item yang ingin dihapus sesuai dengan yang tertera pada tabel item di keranjang belanja
     
-    ![image](https://user-images.githubusercontent.com/121001516/218328308-6208eb9a-a871-47ae-b017-66b9e57054c9.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218343407-5980a705-ec5a-48d2-8995-ba09495dae53.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218343441-53658485-1670-494c-9963-8284d2ab59d8.png)
 
   - Function check_order untuk mengecek item apa saja yang ada di keranjang belanja user
     
-    ![image](https://user-images.githubusercontent.com/121001516/218328385-1f732bfa-49e8-4e25-bd42-a0225b04157f.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218343473-b4f7b087-6c12-4f66-be7b-ad852ccc2540.png)
 
   - Function total_price untuk menampilkan total belanja yang harus dibayarkan user. Nominal diskon yang didapatkan user berdasarkan total belanja. User juga dapat mengetahui jumlah diskon yang mereka dapatkan
     
-    ![image](https://user-images.githubusercontent.com/121001516/218328431-c45b9aab-08cc-4984-bcf4-9a34d2fdd839.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218343486-6c628d92-9f57-443b-ab77-326236c8a34a.png)
+    
+   - Running class dan function
+   
+     ![image](https://user-images.githubusercontent.com/121001516/218343505-b5cd7d7c-237a-4b53-825f-5c5d3be23fc2.png)
+
