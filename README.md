@@ -21,3 +21,22 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 ![3](https://user-images.githubusercontent.com/121001516/218312114-f31cac4b-a1dd-4932-b726-7567b227d852.png)
 ![4](https://user-images.githubusercontent.com/121001516/218312123-190d1a88-0103-4f1b-a3ce-8b417cb9d3ac.png)
 
+## Cara Menggunakan Program
+- Module 'cashier.py' terdiri dari Class 'Transaction' yang memuat semua function untuk menjalankan fitur-fitur yang ada di self-service cashier
+- Download file module 'cashier.py'
+- Untuk menjalankan program self-service cashier ini, dapat dilakukan dengan mengupload file module 'cashier.py' di Jupyter Notebook kemudian impor module 'cashier.py'
+- Class Transaction diawali method __init__ yang memiliki atribut-atribut kelas yang diinisialisasi sebagai list kosong. Atribut-atribut ini terdiri atas:
+  - list item : nama - nama item yang ada di keranjang belanja user
+  - list_jumlah_item : jumlah dari setiap item yang ada di keranjang belanja user
+  - list_harga_item : harga dari setiap item yang ada di keranjang belanja user
+  - list_harga_total : total harga dari setiap item. Didapat dengan mengkalikan jumlah item dengan harga item
+  - df : dataframe yang dihasilkan dari dictionary yang terdiri dari list_item, list_jumlah_item, list_harga_item, list_harga_total 
+ 
+    ![image](https://user-images.githubusercontent.com/121001516/218315193-4cb7a07c-1f80-480c-bd91-f21d4954395a.png)
+
+- Berikut adalah function-function yang terdapat di Class 'Transaction':
+  - Function basket untuk menambahkan item ke keranjang belanja. Sebelum input nama, jumlah dan harga item, user akan ditanya jumlah jenis item yang akan dibayar. Setelah semua item sudah diinput, maka akan keluar output dataframe nama, jumlah, harga/item dan total harga dari semua item.
+  
+    ![image](https://user-images.githubusercontent.com/121001516/218315952-18c45961-3aa4-4383-806b-d187872593e3.png)
+    
+  - Function 
