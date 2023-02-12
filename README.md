@@ -37,6 +37,14 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 - Berikut adalah function-function yang terdapat di Class 'Transaction':
   - Function basket untuk menambahkan item ke keranjang belanja. Sebelum input nama, jumlah dan harga item, user akan ditanya jumlah jenis item yang akan dibayar. Setelah semua item sudah diinput, maka akan keluar output dataframe nama, jumlah, harga/item dan total harga dari semua item.
   
-    ![image](https://user-images.githubusercontent.com/121001516/218315952-18c45961-3aa4-4383-806b-d187872593e3.png)
+    ![image](https://user-images.githubusercontent.com/121001516/218328028-fb38b981-e361-4c2a-9a82-416aa3497db2.png)
+
     
-  - Function 
+  - Function update_items untuk mengedit item yang ada di keranjang belanja. User dibeli 4 pilihan edit. Untuk mengedit item, user harus menginput nomor urut item sesuai dengan yang tertera pada tabel item di keranjang belanja
+
+    ![image](https://user-images.githubusercontent.com/121001516/218328081-071b6363-2e04-4cc3-8fc0-452a70a5242e.png)
+    
+    ![image](https://user-images.githubusercontent.com/121001516/218328139-558e5815-1b34-41c8-9b62-30ffd7a950ec.png)
+    
+    ![image](https://user-images.githubusercontent.com/121001516/218328185-8999b3b2-ff25-4bc7-ab7b-31a916fa9525.png)
+
