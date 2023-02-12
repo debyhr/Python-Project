@@ -64,3 +64,9 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
    
      ![image](https://user-images.githubusercontent.com/121001516/218343505-b5cd7d7c-237a-4b53-825f-5c5d3be23fc2.png)
 
+## Hasil Test Case
+1. Sistem akan menanyakan customer berapa jenis item belanjaan mereka yang akan dibayar. Kemudian customer menginput nama, jumlah serta harga per item sebanyak jumlah jenis item. Output dari function ini adalah dataframe yang berisi rincian item user serta total harga setiap jenis item
+
+   ![image](https://user-images.githubusercontent.com/121001516/218343853-0573cd76-e62c-427d-b10e-b2f18c60cc6a.png)
+
+2.   
