@@ -48,3 +48,14 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
     
     ![image](https://user-images.githubusercontent.com/121001516/218328185-8999b3b2-ff25-4bc7-ab7b-31a916fa9525.png)
 
+  - Function delete_items untuk menghapus item yang ada di keranjang belanja. User dibeli 2 pilihan delete (delete semua item/reset dan delete beberapa item). Untuk menghapus item, user harus menginput nomor urut item yang ingin dihapus sesuai dengan yang tertera pada tabel item di keranjang belanja
+    
+    ![image](https://user-images.githubusercontent.com/121001516/218328308-6208eb9a-a871-47ae-b017-66b9e57054c9.png)
+
+  - Function check_order untuk mengecek item apa saja yang ada di keranjang belanja user
+    
+    ![image](https://user-images.githubusercontent.com/121001516/218328385-1f732bfa-49e8-4e25-bd42-a0225b04157f.png)
+
+  - Function total_price untuk menampilkan total belanja yang harus dibayarkan user. Nominal diskon yang didapatkan user berdasarkan total belanja. User juga dapat mengetahui jumlah diskon yang mereka dapatkan
+    
+    ![image](https://user-images.githubusercontent.com/121001516/218328431-c45b9aab-08cc-4984-bcf4-9a34d2fdd839.png)
