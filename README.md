@@ -70,12 +70,15 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
    ![image](https://user-images.githubusercontent.com/121001516/218479671-c234dd0d-d16e-4432-9e2e-76b6794a4e2b.png)
 
 
-2. Sistem akan menunjukkan dataframe rincian item belanja user kemudian sistem akan menanyakan apakah ada item belanja yang ingin diganti. Jika user memilih "yes" maka sistem akan kembali menanyakan 4 pilihan edit item belanja. Jika user menjawab "no" maka sistem akan melanjutkan ke fitur selanjutnya (delete_items)
+2. Sistem akan menunjukkan dataframe rincian item belanja user kemudian sistem akan menanyakan apakah ada item belanja yang ingin diganti. Jika user memilih "yes" maka sistem akan kembali menanyakan 4 pilihan edit item belanja. Rincian item belanja user akan kembali diperlihatkan setelah proses edit selesai. Jika user menjawab "no" maka sistem akan melanjutkan ke fitur selanjutnya (delete_items). 
 	 
-	 - **Menambah item.** User akan ditanya apakah ingin menambah item belanja. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang ingin ditambah, kemudian user akan menginput nama, jumlah serta harga per item yang ingin ditambahkan sebanyak jumlah jenis item. Setelah itu user akan kembali diperlihatkan dataframe rincian belanjaan mereka
+	 - **Menambah item.** User akan ditanya apakah ingin menambah item belanja. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang ingin ditambah, kemudian user akan menginput nama, jumlah serta harga per item yang ingin ditambahkan sebanyak jumlah jenis item.
 	 ![image](https://user-images.githubusercontent.com/121001516/218480873-3eafabe9-02f2-4dd1-a56b-37e3a2a427db.png)
-	 - **Mengganti nama item**. User akan ditanya apakah ingin mengubah nama item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang namanya ingin diubah, kemudian user menginput nama item baru tersebut. Setelah itu user akan kembali diperlihatkan dataframe rincian belanjaan mereka
-	 - **Mengganti jumlah item**
+	 - **Mengganti nama item**. User akan ditanya apakah ingin mengubah nama item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang namanya ingin diubah, kemudian user akan ditanya no. urutan/index item tersebut. Setelah itu, user diminta untuk input nama item baru untuk index tersebut. 
+	 
+	   ![image](https://user-images.githubusercontent.com/121001516/218487350-9d122c5f-1697-49a0-8268-d647b92db793.png)
+	 - **Mengganti jumlah item**, User akan ditanya apakah ingin mengubah jumlah item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang jumlahnya ingin diubah, kemudian user akan ditanya no. urutan/index item tersebut. Setelah itu, user diminta untuk input jumlah item baru untuk index tersebut.
+	 - 
 	 - **Mengganti harga item**
       
 
