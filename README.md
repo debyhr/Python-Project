@@ -83,7 +83,10 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 	 - **Mengganti harga item**. User akan ditanya apakah ingin mengubah harga item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang harganya ingin diubah, kemudian user akan ditanya no. urutan/index item tersebut. Setelah itu, user diminta untuk input harga item baru untuk index tersebut.
 	   ![image](https://user-images.githubusercontent.com/121001516/218569685-22b6905e-6326-4a3e-90f8-01d3afe14e65.png)
 
-      
+3. Sistem akan menunjukkan dataframe rincian item belanja user kemudian sistem akan menanyakan apakah ada item belanja yang ingin dihapus. Jika user memilih "yes" maka sistem akan kembali menanyakan 2 pilihan hapus item belanja. Jika user menjawab "no" maka sistem akan melanjutkan ke fitur selanjutnya (check_orders).
 
-   
-4. 
+	- **Hapus beberapa item**. User akan ditanya apakah ingin menghapus satu atau lebih item belanja yang ada di sistem. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang ingin dihapus, kemudian user akan ditanya no. urutan/index item tersebut. Rincian item belanja user akan kembali diperlihatkan setelah proses penghapusan item selesai.
+	- **Hapus semua item (reset)**. User akan ditanya apakah ingin menghapus semua item belanja yang ada di sistem. Jika user menjawab "yes" maka sistem akan menghapus semua item dan sistem berhenti.
+5. saaf
+6. fasfa
+7. fafsfas
