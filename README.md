@@ -99,3 +99,4 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 7. Sistem memproses total belanja user dan mengaplikasikan diskon jika total belanja user mencapi syarat diskon. 
    ![image](https://user-images.githubusercontent.com/121001516/218581763-6b523334-990e-435e-8f90-f6daa1c80ea8.png)
 
+## Kesimpulan
