@@ -93,8 +93,9 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 
 5. Sebelum check out, sistem akan bertanya apakah user ingin melihat semua item yang telah dipesan.  
 	- **Jika user memilih "yes"** maka akan ditampilkan tabel item belanja user.
-	
+	 ![image](https://user-images.githubusercontent.com/121001516/218581114-5ed3c4ee-3e43-4370-918d-986c208459aa.png)
+
 	- **Jika user memilih "no"** maka sistem akan melanjutkan ke fitur selanjutnya (total_price)
-7.   
-8. fasfa
-9. fafsfas
+7. Sistem memproses total belanja user dan mengaplikasikan diskon jika total belanja user mencapi syarat diskon. 
+   ![image](https://user-images.githubusercontent.com/121001516/218581763-6b523334-990e-435e-8f90-f6daa1c80ea8.png)
+
