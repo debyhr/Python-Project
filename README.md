@@ -3,7 +3,7 @@
 Super Cashier Sederhana dengan menggunakan bahasa pemograman Python
 
 ## Tujuan Pengerjaan Project
-Suatu supermarket besar di salah satu kota Indonesia berencana untuk melakukan modernisasi proses bisnis dengan cara membuat sistem kasir yang self-service. Pada sistem self-service ini, customer bisa langsung memasukkan item yang dibeli, jumlah item, harga item dan fitur-fitur lainnya. Keunggulannya adalah customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersbut. Untuk mewujudkan sistem self-service cashier ini, maka project ini dilakukan menggunakan bahasa pemrogaman Python
+Supermarket Super Indo berencana untuk melakukan modernisasi proses bisnis dengan cara membuat sistem kasir yang self-service. Pada sistem self-service ini, customer bisa langsung memasukkan item yang dibeli, jumlah item, harga item dan fitur-fitur lainnya. Keunggulannya adalah customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersbut. Untuk mewujudkan sistem self-service cashier ini, maka project ini dilakukan menggunakan bahasa pemrogaman Python
 
 ## Objectives
 Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
@@ -65,8 +65,19 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
      ![image](https://user-images.githubusercontent.com/121001516/218343505-b5cd7d7c-237a-4b53-825f-5c5d3be23fc2.png)
 
 ## Hasil Test Case
-1. Sistem akan menanyakan customer berapa jenis item belanjaan mereka yang akan dibayar. Kemudian customer menginput nama, jumlah serta harga per item sebanyak jumlah jenis item. Output dari function ini adalah dataframe yang berisi rincian item user serta total harga setiap jenis item
+1. Sistem akan menanyakan user berapa jenis item belanjaan mereka yang akan bayar. Kemudian customer menginput nama, jumlah serta harga per item sebanyak jumlah jenis item. Output dari function ini adalah dataframe yang berisi rincian item user serta total harga setiap jenis item
 
-   ![image](https://user-images.githubusercontent.com/121001516/218343853-0573cd76-e62c-427d-b10e-b2f18c60cc6a.png)
+   ![image](https://user-images.githubusercontent.com/121001516/218479671-c234dd0d-d16e-4432-9e2e-76b6794a4e2b.png)
 
-2.   
+
+2. Sistem akan menunjukkan dataframe rincian item belanja user kemudian sistem akan menanyakan apakah ada item belanja yang ingin diganti. Jika user memilih "yes" maka sistem akan kembali menanyakan 4 pilihan edit item belanja. Jika user menjawab "no" maka sistem akan melanjutkan ke fitur selanjutnya (delete_items)
+	 
+	 - **Menambah item.** User akan ditanya apakah ingin menambah item belanja. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang ingin ditambah, kemudian user akan menginput nama, jumlah serta harga per item yang ingin ditambahkan sebanyak jumlah jenis item. Setelah itu user akan kembali diperlihatkan dataframe rincian belanjaan mereka
+	 ![image](https://user-images.githubusercontent.com/121001516/218480873-3eafabe9-02f2-4dd1-a56b-37e3a2a427db.png)
+	 - **Mengganti nama item**. User akan ditanya apakah ingin mengubah nama item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang namanya ingin diubah, kemudian user menginput nama item baru tersebut. Setelah itu user akan kembali diperlihatkan dataframe rincian belanjaan mereka
+	 - **Mengganti jumlah item**
+	 - **Mengganti harga item**
+      
+
+   
+4. 
