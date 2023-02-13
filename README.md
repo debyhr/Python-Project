@@ -86,7 +86,15 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 3. Sistem akan menunjukkan dataframe rincian item belanja user kemudian sistem akan menanyakan apakah ada item belanja yang ingin dihapus. Jika user memilih "yes" maka sistem akan kembali menanyakan 2 pilihan hapus item belanja. Jika user menjawab "no" maka sistem akan melanjutkan ke fitur selanjutnya (check_orders).
 
 	- **Hapus beberapa item**. User akan ditanya apakah ingin menghapus satu atau lebih item belanja yang ada di sistem. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang ingin dihapus, kemudian user akan ditanya no. urutan/index item tersebut. Rincian item belanja user akan kembali diperlihatkan setelah proses penghapusan item selesai.
+	 ![image](https://user-images.githubusercontent.com/121001516/218579006-40cfecbd-1c83-4a0b-9612-91cdaebb09fd.png)
+
 	- **Hapus semua item (reset)**. User akan ditanya apakah ingin menghapus semua item belanja yang ada di sistem. Jika user menjawab "yes" maka sistem akan menghapus semua item dan sistem berhenti.
-5. saaf
-6. fasfa
-7. fafsfas
+	 ![image](https://user-images.githubusercontent.com/121001516/218579413-d540b088-16c0-4c41-a0f5-6e7b0e8788ba.png)
+
+5. Sebelum check out, sistem akan bertanya apakah user ingin melihat semua item yang telah dipesan.  
+	- **Jika user memilih "yes"** maka akan ditampilkan tabel item belanja user.
+	
+	- **Jika user memilih "no"** maka sistem akan melanjutkan ke fitur selanjutnya (total_price)
+7.   
+8. fasfa
+9. fafsfas
