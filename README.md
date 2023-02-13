@@ -77,9 +77,12 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 	 - **Mengganti nama item**. User akan ditanya apakah ingin mengubah nama item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang namanya ingin diubah, kemudian user akan ditanya no. urutan/index item tersebut. Setelah itu, user diminta untuk input nama item baru untuk index tersebut. 
 	 
 	   ![image](https://user-images.githubusercontent.com/121001516/218487350-9d122c5f-1697-49a0-8268-d647b92db793.png)
-	 - **Mengganti jumlah item**, User akan ditanya apakah ingin mengubah jumlah item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang jumlahnya ingin diubah, kemudian user akan ditanya no. urutan/index item tersebut. Setelah itu, user diminta untuk input jumlah item baru untuk index tersebut.
-	 - 
-	 - **Mengganti harga item**
+	 - **Mengganti jumlah item**. User akan ditanya apakah ingin mengubah jumlah item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang jumlahnya ingin diubah, kemudian user akan ditanya no. urutan/index item tersebut. Setelah itu, user diminta untuk input jumlah item baru untuk index tersebut.
+	   ![image](https://user-images.githubusercontent.com/121001516/218568242-3db340c8-98f0-4f20-97be-20e67674289a.png)
+ 
+	 - **Mengganti harga item**. User akan ditanya apakah ingin mengubah harga item belanja yang telah diinput sebelumnya. Jika user menjawab "yes" maka sistem akan bertanya jumlah jenis item yang harganya ingin diubah, kemudian user akan ditanya no. urutan/index item tersebut. Setelah itu, user diminta untuk input harga item baru untuk index tersebut.
+	   ![image](https://user-images.githubusercontent.com/121001516/218569685-22b6905e-6326-4a3e-90f8-01d3afe14e65.png)
+
       
 
    
