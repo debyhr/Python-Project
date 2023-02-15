@@ -97,3 +97,13 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
    ![image](https://user-images.githubusercontent.com/121001516/218581763-6b523334-990e-435e-8f90-f6daa1c80ea8.png)
 
 ## Kesimpulan
+Kelebihan dari sistem self-service cashier Supermarket Super Indo yaitu, sistem ini memiliki fitur-fitur yang memungkinkan user untuk:
+1. mengedit nama / kuantitas / harga item belanjaan mereka tanpa harus menghapus 1 row pesanan item tersebut. 
+2. menambah item belanja tanpa harus keluar sistem dan mengulang proses dari awal
+3. menghapus beberapa item yang diinginkan tanpa harus menghapus semua item di keranjang belanja 
+4. menghapus semua item belanja dan keluar dari sistem dengan mudah
+5. mengecek rincian belanja mereka di awal dan akhir segala fitur. Di akhir proses delete, edit dan pembayaran akan ditampilkan rincian item-item belanja mereka yang terbaru. 
+6. mengetahui jumlah diskon yang mereka dapatkan sesuai syarat yang berlaku. 
+
+Kekurangan dari sistem self-service cashier Supermarket Super Indo yaitu:
+1. 
