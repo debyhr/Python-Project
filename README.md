@@ -16,10 +16,7 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
 - menampilkan total uang yang harus yang dibayarkan setelah pengaplikasian diskon
 
 ## FlowChart
-![1](https://user-images.githubusercontent.com/121001516/218312092-e8f4c23a-6a8b-477f-a81e-c49b70621a0d.png)
-![2](https://user-images.githubusercontent.com/121001516/218312105-7ba8bc6a-863b-482c-badc-48d6a39e138c.png)
-![3](https://user-images.githubusercontent.com/121001516/218312114-f31cac4b-a1dd-4932-b726-7567b227d852.png)
-![4](https://user-images.githubusercontent.com/121001516/218312123-190d1a88-0103-4f1b-a3ce-8b417cb9d3ac.png)
+![flowchart](https://user-images.githubusercontent.com/121001516/219148551-3fed2ab8-4d6e-4219-8a54-b4b184408441.png)
 
 ## Cara Menggunakan Program
 - Module 'cashier.py' terdiri dari Class 'Transaction' yang memuat semua function untuk menjalankan fitur-fitur yang ada di self-service cashier
