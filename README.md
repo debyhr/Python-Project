@@ -106,4 +106,5 @@ Kelebihan dari sistem self-service cashier Supermarket Super Indo yaitu, sistem 
 6. mengetahui jumlah diskon yang mereka dapatkan sesuai syarat yang berlaku. 
 
 Kekurangan dari sistem self-service cashier Supermarket Super Indo yaitu:
-1. 
+1. proses input item belanja yang banyak dapat memakan waktu yang lama karena dilakukan secara manual mulai dari nama, kuantitas dan harga. Akan lebih mudah, jika diberi list item-item yang dijual di supermarket beserta harga nya. Dengan cara itu, user bisa menginput no.urutan / index dari item yang diinginkan berdasarkan list, kemudian dengan IF statements dan loop bisa dicari nama item serta harga per item tersebut. Jadi user hanya perlu menginput no.urut dan kuantitas.
+
