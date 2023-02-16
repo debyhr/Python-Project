@@ -42,16 +42,16 @@ Self-service cashier ini memiliki fitur-fitur untuk user sebagai berikut:
     
     ![image](https://user-images.githubusercontent.com/121001516/218343338-a0d011d0-2e2d-49df-b263-9b19fa642bf0.png)
     
-    ![image](https://user-images.githubusercontent.com/121001516/218343368-fd8a63ee-feb2-4005-b002-9ae34080b092.png)
+    ![image](https://user-images.githubusercontent.com/121001516/219222593-b1c81fe8-fbe8-4a62-8185-99e199596e7d.png)
 
   - Method delete_items untuk menghapus item yang ada di keranjang belanja. User dibeli 2 pilihan delete (delete semua item/reset dan delete beberapa item). Untuk menghapus item, user harus menginput nomor urut item yang ingin dihapus sesuai dengan yang tertera pada tabel item di keranjang belanja
     
     ![image](https://user-images.githubusercontent.com/121001516/218343407-5980a705-ec5a-48d2-8995-ba09495dae53.png)
-    ![image](https://user-images.githubusercontent.com/121001516/218343441-53658485-1670-494c-9963-8284d2ab59d8.png)
+    ![image](https://user-images.githubusercontent.com/121001516/219222858-1f118bdb-dccc-41fc-a2c2-0e9730b577e1.png)
 
   - Method check_order untuk mengecek item apa saja yang ada di keranjang belanja user
     
-    ![image](https://user-images.githubusercontent.com/121001516/218343473-b4f7b087-6c12-4f66-be7b-ad852ccc2540.png)
+    ![image](https://user-images.githubusercontent.com/121001516/219222982-883548b2-d1a7-417e-94db-3b710d1ea3a8.png)
 
   - Method total_price untuk menampilkan total belanja yang harus dibayarkan user. Nominal diskon yang didapatkan user berdasarkan total belanja. User juga dapat mengetahui jumlah diskon yang mereka dapatkan
     
